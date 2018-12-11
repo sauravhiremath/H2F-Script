@@ -15,6 +15,7 @@
 <li>As images were not provided, a sample image is inserted for every template from my side
 </ol>
 
+<br>
 
 ## How to use
 
