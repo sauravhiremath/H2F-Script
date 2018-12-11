@@ -3,9 +3,10 @@
 ## Working
 
 <ol>
-<li>Install Dependencies
-<li>Run, the script, to get output in 'out' folder.
+  <li>Install Dependencies</li>
+  <li>Run, the script, to get output in 'out' folder.</li>
 </ol>
+<br>
 
 ## Features
 
