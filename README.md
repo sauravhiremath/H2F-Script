@@ -7,7 +7,7 @@
   <li>Run, the script, to get output in 'out' folder.</li>
 </ol>
 
-<br>
+
 ## Features
 
 <ol>
@@ -15,7 +15,7 @@
 <li>As images were not provided, a sample image is inserted for every template from my side
 </ol>
 
-<br>
+
 ## How to use
 
 <ol>
